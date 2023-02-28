@@ -1,0 +1,5 @@
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\app.publish\Jogo da velha.exe
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\app.publish\Jogo da velha.dll
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\app.publish\Jogo da velha.deps.json
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\app.publish\Jogo da velha.runtimeconfig.json
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\app.publish\Jogo da velha.pdb

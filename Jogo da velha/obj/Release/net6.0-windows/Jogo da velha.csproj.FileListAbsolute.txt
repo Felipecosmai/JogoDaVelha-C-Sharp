@@ -1,0 +1,21 @@
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\Jogo da velha.exe
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\Jogo da velha.deps.json
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\Jogo da velha.runtimeconfig.json
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\Jogo da velha.dll
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\Jogo da velha.pdb
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo_da_velha.FormGame.resources
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.AssemblyInfo.cs
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.dll
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\refint\Jogo da velha.dll
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.pdb
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.genruntimeconfig.cache
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\ref\Jogo da velha.dll
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\Jogo da velha.dll.manifest
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\bin\Release\net6.0-windows\Jogo da velha.application
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.dll.manifest
+C:\Users\felip\source\repos\C# Udemy - Guilherme\Jogo da velha\Jogo da velha\obj\Release\net6.0-windows\Jogo da velha.application
