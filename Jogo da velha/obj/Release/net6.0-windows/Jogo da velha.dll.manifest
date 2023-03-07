@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Jogo da velha.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Jogo da velha.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="7.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>Yvc4dt9KpJahWJiKOwVIA+PM5ulLLWWbHWPoyq89YNM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Jogo da velha.dll" size="14336">
+  <file name="Jogo da velha.dll" size="13824">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>GJqvHsT/htHA5bAOC5jxQuS6CX4OTJ8kALQdlQPDpW0=</dsig:DigestValue>
+      <dsig:DigestValue>p9TEb9Bb63OYkMXftIAzqOp0qHEqaYbrmRtw+w84D6I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Jogo da velha.exe" size="147968">
+  <file name="Jogo da velha.exe" size="147456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>I0s7AvWIdNn2BFMzAV6EoWDYdNoSg92ZrNeAJfqiez8=</dsig:DigestValue>
+      <dsig:DigestValue>8qh/+tNjXiWpfzICC4m5R0prZI9TFfMV5JthPQxwDA8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Jogo da velha.runtimeconfig.json" size="372">
